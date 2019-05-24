@@ -47,7 +47,7 @@ setup(
             'mock<1.1.0',
             'psycopg2>=2.4.0',
             'sqlalchemy>=1.2.0',
-            'pytest>=3.0.0',
+            'pytest>=3.6.0',
             'pytest-cov',
             'pytest-localserver',
             'pytest-mock',
