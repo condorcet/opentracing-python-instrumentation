@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='opentracing_instrumentation',
-    version='2.4.3',
+    name='cnord_opentracing_instrumentation',
+    version='2.4.4',
     author='Yuri Shkuro',
     author_email='ys@uber.com',
     description='Tracing Instrumentation using OpenTracing API (http://opentracing.io)',

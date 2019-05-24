@@ -3,6 +3,13 @@
 History
 -------
 
+
+2.4.4 (2019-05-24)
+------------------
+
+- Backport: support Composable object as sql statement for psycopg2 (#81)
+
+
 2.4.3 (2018-08-24)
 ------------------
 
